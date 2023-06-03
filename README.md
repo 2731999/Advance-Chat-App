@@ -13,12 +13,11 @@ This repository contains the code for an advanced chat application. The chat app
 ## ScreanShots
 
 #### Authenticaton
-
 ![login](https://github.com/2731999/Advance-Chat-App/assets/101728039/1750aa8d-a1e4-445c-9cc5-5c25c7947888)
 ![signup](https://github.com/2731999/Advance-Chat-App/assets/101728039/ded3b1c4-93f7-4258-8d97-6e2643aaf6fa)
 
 #### Real Time Chatting with Typing indicators
-![image](https://github.com/2731999/Advance-Chat-App/assets/101728039/81ef9b27-4544-4058-90e4-f0bcd315c738)
+![chat](https://github.com/2731999/Advance-Chat-App/assets/101728039/fb534ab9-5214-4df8-a71d-a9e999157e7e)
 
 #### One to One chat
 ![Ono](https://github.com/2731999/Advance-Chat-App/assets/101728039/d077ba9c-e340-4aa5-a934-ad7f6d509dec)
