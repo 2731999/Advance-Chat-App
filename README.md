@@ -1,6 +1,6 @@
 # Talk-A-Tive
 
-This repository contains the code for an advanced chat application. The chat app is built using modern technologies and provides a feature-rich user experience. Users can create accounts, join chat rooms, send messages, and interact with other users in real-time
+This repository contains the code for an advanced chat application. The chat app is built using modern technologies and provides a feature-rich user experience. Users can create accounts, join chat rooms, send messages, and interact with other users in real-time.
 
 ## Features
 
